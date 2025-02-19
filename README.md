@@ -1,2 +1,2 @@
 # CoursesSystem
-Flight registration system
+Courses registration system
